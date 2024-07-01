@@ -1,0 +1,25 @@
+{
+    "name": "random-numbers",
+    "version": "0.0.1",
+    "description": "A package that allows users set range of two numbers which you can pick n random numbers from",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/TheCloneInternship/week2.git"
+    },
+    "keywords": [
+      "Range",
+      "Random-Numbers",
+      "Math"
+    ],
+    "author": "Toluwanimi Abiola",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/TheCloneInternship/week2/issues"
+    },
+    "homepage": "https://github.com/TheCloneInternship/week2#readme"
+  }
+  
